@@ -82,6 +82,7 @@ Your "controle continu" (CC) grade will be based on several aspects concerning t
   - You should send us by e-mail the URL of a github repo containing your report
 - **C** : Your **individual** performance in the two challenges that we will propose during the semester (25+25%)
   - Best participant gets full grade on the competition, all others get a grade proportional to his score
+
 In all, we have that CC = 0.10x**P** + 0.40x**R** + 0.50x**C**
 
 #### -- Concerning the final exam
