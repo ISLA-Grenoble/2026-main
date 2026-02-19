@@ -1,0 +1,12 @@
+# Books (large PDFs)
+books/
+
+# Slide decks
+slides/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
