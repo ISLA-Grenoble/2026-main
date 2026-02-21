@@ -7,6 +7,7 @@ This is the main page to look for materials of our classes on "Statistical learn
 ### Instructors
 - Pedro L. C. Rodrigues — pedro.rodrigues@inria.fr (CM, TD, and TP)
 - Isabella Costa Maia — isabella.costa-maia@grenoble-inp.fr (TD and TP)
+- Pierre Marrec - pierre.marrec@inria.fr (TD and TP)
 - Razan Mhanna — razan.mhanna@inria.fr (Complementary courses for M1AM students)
 
 ### Schedule
@@ -66,7 +67,7 @@ The (initial) plan for the topics of each of our classes is the following:
 
 ### Challenges
 
-- Challenge 1 will run from 23-February 2026 to 22-March 2026
+- [Challenge 1](https://www.codabench.org/competitions/13881/) will run from 23-February 2026 to 22-March 2026
 - Challenge 2 will run from 23-March 2026 to 04-May 2026
 
 ### Textbooks
