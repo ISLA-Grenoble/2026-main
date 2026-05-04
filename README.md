@@ -1,5 +1,13 @@
 # Introduction to statistical learning and applications 2026
 
+--- 
+
+### About the final exam
+
+The final exam will happen on **Wed 06-May at 8am**. It will be a 3h practical evaluation on the computers from ENSIMAG. It will have some multiple-choice questions to evaluate your theoretical knowledge and some practical questions similar to what you will do in the TPs. You will not have access to any internet connections, except to `sklearn` documentation at https://scikit-learn.org/stable/. You can bring your own handwritten and printed notes. In the computer that you will use, we will provide you a folder with the instructions for the exam, the `ipynb` files to fill with your answers and code, as well all the slides of the course.
+
+--- 
+
 Hi :wave: 
 
 This is the main page to look for materials of our classes on "Statistical learning and applications" in 2026. Please note that we **won't be using Chamilo**, so you should be checking this page regularly for updates.
